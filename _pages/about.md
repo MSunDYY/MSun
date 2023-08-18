@@ -18,7 +18,7 @@ I'm looking for one or more partners to study with,please free to email me at **
 
 **You can also get to know me by following ways:**
 
-[Wechat](../../images/wechat.png) / [Github](https://github.com/MSunDYY)
+[Wechat](../images/wechat.png) / [Github](https://github.com/MSunDYY)
 
 
 
