@@ -20,6 +20,8 @@ I'm looking for one or more partners to study with,please free to email me at **
 
 [Wechat](https://qiudi233.github.io/images/wechat.jpg) / [Github](https://github.com/MSunDYY)
 
+[Wechat](https://github.com/MSunDYY/MSun/blob/master/images/wechat.png)
+[Wechat](../images/wechat.png)
 
 
 A data-driven personal website
