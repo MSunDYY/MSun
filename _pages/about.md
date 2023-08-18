@@ -7,8 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is Chenxu Dang and I'm studying in School of [Artificial Intelligence and Automation](http://aia.hust.edu.cn/),[HuaZhong University of
+Science and Technology](https://www.hust.edu.cn/).My research interest is computer vision,3D detection and automatic
+driving.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I major in artificial intelligence,especially in the field of 3D Object Detection.If you have the same interests as
+me,please email me at chenxvdang2023@163.com or 2563733583@qq.com so that we can exchange our ideas with each
+other.I wish you can step into my [github](https://github.com/MSunDYY) and give me some advice!
+
+You can also contact with me by QQ:2563733583 or [wechat](https://github.com/MSunDYY/MSun/blob/master/images/wechat.png)
+
+
+
 
 A data-driven personal website
 ======
