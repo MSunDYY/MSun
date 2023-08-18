@@ -12,10 +12,16 @@ Science and Technology](https://www.hust.edu.cn/).My research interest is comput
 driving.
 
 I major in artificial intelligence,especially in the field of 3D Object Detection.If you have the same interests as
-me,please email me at chenxvdang2023@163.com or 2563733583@qq.com so that we can exchange our ideas with each
-other.I wish you can step into my [github](https://github.com/MSunDYY) and give me some advice!
+me.I am very fortunate to be advised by [Prof.Jie Ma](http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm),HUST.
 
-You can also contact with me by QQ:2563733583 or [wechat](https://github.com/MSunDYY/MSun/blob/master/images/wechat.png)
+I'm looking one or more partners to study with,please email me at chenxvdang2023@163.com or 2563733583@qq.
+com so that we can exchange our ideas with each other.
+
+You can also get to konw me by following ways:
+
+[wechat](https://github.com/MSunDYY/MSun/blob/master/images/wechat.png) / [github](https://github.com/MSunDYY)
+
+
 
 A data-driven personal website
 ======
@@ -51,6 +57,8 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+
+
 
 For more info
 ------
