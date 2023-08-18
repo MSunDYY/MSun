@@ -11,15 +11,14 @@ My name is Chenxu Dang and I'm studying in [School of Artificial Intelligence an
 Science and Technology](https://www.hust.edu.cn/).My research interest is computer vision,3D detection and automatic
 driving.
 
-I major in artificial intelligence,especially in the field of 3D Object Detection.If you have the same interests as
-me.I am very fortunate to be advised by [Prof.Jie Ma](http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm),HUST.
+I major in artificial intelligence,especially in the field of 3D Object Detection.If you have the same interests.I am very fortunate to be advised by [Prof.Jie Ma](http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm),HUST.
 
-I'm looking one or more partners to study with,please email me at chenxvdang2023@163.com or 2563733583@qq.
-com so that we can exchange our ideas with each other.
+I'm looking for one or more partners to study with,please free to email me at **chenxvdang2023@163.com** or 
+**2563733583@qq.com** so that we can exchange our ideas with each other.
 
-You can also get to konw me by following ways:
+**You can also get to know me by following ways:**
 
-[wechat](https://github.com/MSunDYY/MSun/blob/master/images/wechat.png) / [github](https://github.com/MSunDYY)
+[Wechat](../../images/wechat.png) / [Github](https://github.com/MSunDYY)
 
 
 
