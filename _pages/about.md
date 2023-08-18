@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Chenxu Dang and I'm studying in School of [Artificial Intelligence and Automation](http://aia.hust.edu.cn/),[HuaZhong University of
+My name is Chenxu Dang and I'm studying in [School of Artificial Intelligence and Automation](http://aia.hust.edu.cn/),[HuaZhong University of
 Science and Technology](https://www.hust.edu.cn/).My research interest is computer vision,3D detection and automatic
 driving.
 
@@ -15,7 +15,7 @@ I major in artificial intelligence,especially in the field of 3D Object Detectio
 me,please email me at chenxvdang2023@163.com or 2563733583@qq.com so that we can exchange our ideas with each
 other.I wish you can step into my [github](https://github.com/MSunDYY) and give me some advice!
 
-You can also contact with me by QQ:2563733583 or [wechat](../images/wechat.png).
+You can also contact with me by QQ:2563733583 or [wechat](https://github.com/MSunDYY/MSun/blob/master/images/wechat.png)
 
 A data-driven personal website
 ======
