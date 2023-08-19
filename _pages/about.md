@@ -13,8 +13,8 @@ driving.
 
 I major in artificial intelligence,especially in the field of 3D Object Detection.If you have the same interests.I am very fortunate to be advised by [Prof.Jie Ma](http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm),HUST.
 
-I'm looking for one or more partners to study with,please free to email me at **chenxvdang2023@163.com** or 
-**2563733583@qq.com** so that we can exchange our ideas with each other.
+I'm looking for one or more partners to study with,please free to email me at [chenxvdang2023@163.com](chenxvdang2023@163.com)or 
+[2563733583@qq.com](2563733583@qq.com) so that we can exchange our ideas with each other.
 
 **You can also get to know me by following ways:**
 
