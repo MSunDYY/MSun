@@ -29,4 +29,4 @@ and solving problems.
 I'm positive and optimistic to face challenges in the life.I admire successful people and I learn from excellent people
 around me all the time.
 
-I love sports such as ping-pong and running.When stressful,I'm accustomed to running on the playgroung to relex myself.
+I love sports such as ping-pong and running.When stressful,I'm accustomed to running on the playground to relex myself.
