@@ -90,13 +90,13 @@ author:
   email            : "chenxudang2023@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  csdn             :  https://blog.csdn.net/xxzdyy?type=blog
+  bitbucket        :  "https://blog.csdn.net/xxzdyy?type=blog"
+  csdn             :  "https://blog.csdn.net/xxzdyy?type=blog"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
+  foursquare       : 
   github           : "MSunDYY"
   google_plus      :
   keybase          :
