@@ -22,7 +22,7 @@ I'm looking for one or more partners to study with.If you have the same interest
 
 My characters
 ========
-As the most of energetic boys,I'm not that outgoing,but I have full enthusiasm in what I love.
+Like most science boys,I'm not that outgoing,but I have full enthusiasm in what I love.
 I'm fond of thinking independently as well as communicating with others.I enjoy the process of researching 
 and solving problems.
 
