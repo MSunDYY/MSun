@@ -11,9 +11,13 @@ My name is Chenxu Dang and I'm studying in [School of Artificial Intelligence an
 Science and Technology](https://www.hust.edu.cn/).My research interest is computer vision,3D detection and automatic
 driving.
 
-I major in artificial intelligence,especially in the field of 3D Object Detection.If you have the same interests.I am very fortunate to be advised by [Prof.Jie Ma](http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm),HUST.
+I major in artificial intelligence,especially in the field of 3D Object Detection.I am very fortunate to be advised by [Prof.Jie Ma](http://faculty.hust.edu.cn/majie/zh_CN/index/1491001/list/index.htm),HUST.
 
+<<<<<<< HEAD
 I'm looking for one or more partners to study with,please free to email me at **chenxudang2023@163.com** or 
+=======
+I'm looking for one or more partners to study with.If you have the same interests as mine,please free to email me at **chenxudang2023@163.com** or 
+>>>>>>> a9c680e7e47f08525e7d286bb02631d54cef0753
 **2563733583@qq.com** so that we can exchange our ideas with each other.
 
 **You can also get to know me by following ways:**
@@ -29,4 +33,4 @@ and solving problems.
 I'm positive and optimistic to face challenges in the life.I admire successful people and I learn from excellent people
 around me all the time.
 
-I love sports such ping-pong and running.When stressful,I'm accustomed to running on the playgroung to relex myself.
+I love sports such as ping-pong and running.When stressful,I'm accustomed to running on the playground to relex myself.
